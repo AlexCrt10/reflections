@@ -19,6 +19,8 @@ Quand on veut faire des tests sur certaines fonctions, que l'on ne veut pas perd
 
 How do the diagrams help you visualize the branch structure?
 
+Il est possible de savoir ce qui est accessible ou non, les différentes branches, etc.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
