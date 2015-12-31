@@ -5,6 +5,8 @@ Au départ il n'y a rien dans le fichier. On crée un fichier .git pour indiquer
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+Depuis la staging area, on peut mettre un nouveau commit sur git
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
