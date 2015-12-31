@@ -15,6 +15,8 @@ On vérifie la différence entre 2 fichiers
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Quand on veut faire des tests sur certaines fonctions, que l'on ne veut pas perdre la branche principale
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
